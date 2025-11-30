@@ -34,7 +34,7 @@
 ## 🛠 Tech Stack (Core Skills)
 
 ### 💻 Languages
-`Python` · `JavaScript` · `TypeScript` · `C#` · `SQL` . `JAVA`
+`Python` · `JavaScript` · `TypeScript` · `C#` · `SQL` . `Java`
 
 ### ⚙ Backend & APIs
 `FastAPI` · `Node.js` · `REST APIs` · `WebSockets` · `JWT Auth`
