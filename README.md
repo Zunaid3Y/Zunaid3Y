@@ -2,12 +2,12 @@
 <!--  -->
 
 <h1 align="center">
-  <span style="color:#FFE81F;">🌌 Zunaid Nabil</span>
+  <span style="color:#FFE81F;"> Zunaid Nabil</span>
 </h1>
 
 <p align="center">
   <b><span style="color:#FFE81F;">Software Developer · AI/ML · Research</span></b><br/>
-  <span>“Stay on target.” — Star Wars</span>
+
 </p>
 
 <p align="center">
@@ -54,11 +54,7 @@
 ---
 
 
-➡ Check my pinned repos below for details.
-
----
-
-## 🌠 Current Focus (Training Like a Jedi)
+## 🌠 Current Focus 
 
 - Sharpening **Next.js + TypeScript + API design**  
 - Experimenting with **multimodal ML** (audio + video + text)  
@@ -73,6 +69,3 @@
 
 ---
 
-<p align="center">
-  <span style="color:#FFE81F;">“May the source (code) be with you.”</span>
-</p>
