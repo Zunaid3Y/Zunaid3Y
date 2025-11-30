@@ -1,5 +1,5 @@
 
-<!-- STAR WARS PROFILE README -->
+<!--  -->
 
 <h1 align="center">
   <span style="color:#FFE81F;">🌌 Zunaid Nabil</span>
@@ -12,7 +12,7 @@
 
 <p align="center">
   <!--  -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Coding GIF"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXFqMDc1ZGkzbGpyNXp4bnV5Z2tzdWdlbm5mbnk5OGVjOWZ1dGxreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tuCFp8rod0x3O/giphy.gif"/>
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@
 
 - Sharpening **Next.js + TypeScript + API design**  
 - Experimenting with **multimodal ML** (audio + video + text)  
-- Building **portfolio-ready AI projects** that run well on Apple Silicon  
+
 
 ---
 
