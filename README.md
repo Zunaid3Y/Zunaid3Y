@@ -24,7 +24,7 @@
 ## 🔦 Quick Scan (TL;DR)
 
 - 🧠 AI / ML, Computer Vision & Voice AI  
-- 🌐 Full-stack: **Python + FastAPI + Next.js + React**  
+- 🌐 Full-stack: **Python + FastAPI + Next.js + React **  
 - 📊 Data / Analytics: **Pandas, SQL, scikit-learn**  
 - 🛠 Dev Tools: **Docker, Git, Vercel**  
 - 📍 Sydney, Australia  
@@ -34,7 +34,7 @@
 ## 🛠 Tech Stack (Core Skills)
 
 ### 💻 Languages
-`Python` · `JavaScript` · `TypeScript` · `C#` · `SQL`
+`Python` · `JavaScript` · `TypeScript` · `C#` · `SQL` . `JAVA`
 
 ### ⚙ Backend & APIs
 `FastAPI` · `Node.js` · `REST APIs` · `WebSockets` · `JWT Auth`
